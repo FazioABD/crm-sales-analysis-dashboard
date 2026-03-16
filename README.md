@@ -89,11 +89,12 @@ The dashboard allows users to **interactively explore sales data using filters a
 ---
 
 ## Dashboard Preview
-(Add your dashboard screenshots in the dashboard folder)
 
-![Opportunity Dashboard](dashboard/opportunity_dashboard.png)
+### Opportunity Dashboard
+![CRM Opportunity Dashboard](images/crm_opportunity_dashboard.png)
 
-![Lead Dashboard](dashboard/lead_dashboard.png)
+### Lead Dashboard
+![CRM Lead Dashboard](images/crm_lead_dashboard.png)
 
 ---
 
